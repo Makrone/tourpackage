@@ -12,6 +12,7 @@ public class TourPackage {
 	private LocalDate dateFrom;
 	private LocalDate dateTo;
 	
+	
 	public TourPackage () {
 		super();
 	}
