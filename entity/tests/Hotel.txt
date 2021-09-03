@@ -1,0 +1,10 @@
+Pod Times Square , 5 , 400 West 42nd Street , true;
+Life Point Hotel , 4 , Kemerkaya Mahallesi Halkevi Caddesi , false;
+Exporoyal Hotel , 3 , Muratpaşa Mahallesi 567 Sokak , true;
+Orama Milos , 4  ,Adamas Adamantas 4 , true;
+Nikoleta Luxury Villa , ThasosLimenas 56 , false;
+Grata by Centrum Hotels, 3 , Paupio g 31A , true;
+Hotel Arthur , 5 , Vuorikatu 19 , Kluuvi , true;
+Exe International , 5 , Via Nazionale 46 , false;
+Room Mate Alain, 4 , Rue d'Argentine 16th , true;
+Perouse Randwick Lodges , 4 , Perouse Road 22, true;
