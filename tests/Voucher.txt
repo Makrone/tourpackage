@@ -1,0 +1,18 @@
+Germany , 789 USD , *** , 07.09.2021
+ENGLAND , 570 USD , *** , 15.06.2021
+SYRIA , 327 USD , *** , 23.07.2021
+ETHIOPIA , 475 USD , *** , 07.08.2021
+SPAIN , 723 USD , *** , 16.11.2021
+ITALY , 812 USD , *** , 19.09.2021
+TURKEY , 678 USD , *** , 07.09.2021
+CYPRUS , 1320 USD , *** , 02.11.2021
+AFGHANISTAN , 1265 USD , *** , 30.12.2021
+CZECH REPUBLIC , 1100 USD , *** , 14.12.2021
+
+
+
+
+	private String country;
+	private Double cost;
+	private Transport transport;    ??????????? Я НЕ ПОНЯЛ КАК ЗАПИСАТЬ В КАКОМ ФОРМАТЕ
+	private int dateOfDepartment;
